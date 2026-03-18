@@ -1,0 +1,8 @@
+{
+  "name": "COFRIA (Versión Final)",
+  "description": "Custody of Time \u0026 Will - A sophisticated message preservation app.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
